@@ -1,0 +1,5 @@
+names:
+- container
+nc: 1
+train: /content/drive/MyDrive/container_dataset/train
+val: /content/drive/MyDrive/container_dataset/val

@@ -1,0 +1,5 @@
+names:
+- oil tank
+nc: 1
+train: /content/drive/MyDrive/oiltank_dataset/train
+val: /content/drive/MyDrive/oiltank_dataset/val
